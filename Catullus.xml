@@ -77,7 +77,7 @@
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
           <l n = "1"> Cui dono lepidum novum libellum </l>
           <l n = "2"> <app><lem wit="#servius #past #V" xml:id = "l2lem1">arida</lem> <witDetail wit="#V" target = "#l2lem1">?</witDetail> <rdg wit="#O #G #R" ana = "#morphological"> arido</rdg></app> 
-                        modo <app><lem>pumice</lem> <rdg wit="#R" xml:id= "rdgpunice" ana = "#lexical">punice</rdg><witDetail wit="R" target = "#rdgpunice">corr. <ref target = "#R2"></ref></witDetail> </app> 
+                        modo <app><lem>pumice</lem> <rdg wit="#R" xml:id= "rdgpunice" ana = "#lexical">punice</rdg><witDetail wit="R" target = "#rdgpunice">corr. R<hi rend="superscript">2</hi></witDetail> </app> 
                         expolitum? </l>
           <l n = "3">Corneli, tibi: namque tu solebas </l>
           <l n = "4">meas esse aliquid putare nugas</l>
