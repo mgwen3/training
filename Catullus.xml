@@ -89,16 +89,7 @@
                         quidquid hoc 
                         <app><lem>libelli</lem> <rdg wit= "#G1 #R2">al. mei</rdg></app>.</l>
           <l n = "9">qualecumque quod, 
-                      <app>
-                         <lem source= "#θ">
-                           <supplied reason="lost">
-                             o
-                           </supplied>
-                         </lem> 
-                           <rdg wit= "#Statius">
-                             est(ē)
-                           </rdg>
-                      </app> 
+                      <app> <lem source= "#θ" xml:id = "l9lem1"> <witDetail target = "#l9lem1"> add. </witDetail><supplied reason="lost">o</supplied> </lem>  <rdg wit= "#Statius"> est (ē) </rdg> </app> 
                       patrona virgo,</l>
           <l n = "10">plus uno maneat <app><lem>perenne</lem><rdg wit="#O">perire</rdg></app> saeclo.</l>
         
