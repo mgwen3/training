@@ -77,9 +77,20 @@
           <head>Title of First Part</head>
           <!--Text goes here, according to the conventions laid out elsewhere in these guidelines.-->
           <l n = "1"> Cui dono lepidum novum libellum </l>
-          <l n = "2"> <app><lem wit="#servius #past #V" xml:id = "l2lem1">arida</lem> <witDetail wit="#V" target = "#l2lem1">?</witDetail> <rdg wit="#O #G #R" ana = "#morphological"> arido</rdg></app> 
-                        modo <app><lem>pumice</lem> <rdg wit="#R" xml:id= "rdgpunice" ana = "#lexical">punice</rdg><witDetail wit="R" target = "#rdgpunice">corr. R<hi rend="superscript">2</hi></witDetail> </app> 
-                        expolitum? </l>
+          <l n = "2"> 
+            <app>
+              <lem wit="#servius #past #V" xml:id = "l2lem1">arida</lem> 
+              <witDetail wit="#V" target = "#l2lem1">?</witDetail> 
+              <rdg wit="#O #G #R" ana = "#morphological"> arido</rdg>
+            </app> 
+            modo 
+            <app>
+              <lem>pumice</lem> 
+              <rdg wit="#R" xml:id= "rdgpunice" ana = "#lexical">punice</rdg>
+              <witDetail wit="#R" target = "#rdgpunice">corr. R<hi rend="superscript">2</hi></witDetail> 
+            </app> 
+            expolitum? 
+          </l>
           <l n = "3">Corneli, tibi: namque tu solebas </l>
           <l n = "4">meas esse aliquid putare nugas</l>
           <l n = "5">iam <app><lem wit="#ε" ana = "#lexical">tum</lem> <rdg wit= "#V"> tamen </rdg></app>, 
@@ -91,7 +102,7 @@
           <l n = "8">quare <app><lem wit = "#η">habe tibi</lem> <rdg wit="#V" ana = "#ordinal">tibi habe</rdg></app> 
                         quidquid hoc 
                         <app><lem>libelli</lem> <rdg wit= "#G1 #R2" ana = "#lexical">al. mei</rdg></app>.</l>
-          <l n = "9"><app><lem>qualecumque <app><lem>quod</lem> <rdg wit="#Veneta1472">quidem</rdg></app>, 
+          <l n = "9"><app><lem>qualecumque <app><lem>quod</lem> <rdg wit="#Veneta1472" ana="#lexical">quidem</rdg></app>, 
                       <app> <lem source= "#θ" xml:id = "l9lem1"> <witDetail wit = "#θ" target = "#l9lem1"> add. </witDetail><supplied reason="lost">o</supplied> </lem>  <rdg wit= "#Statius"> est (ē) </rdg> </app> 
                       patrona virgo,</lem> <rdg source= "#Bergk" ana = "#syntactic">qualecumque quidem est, patroni ut ergo</rdg></app></l>
           <l n = "10">plus uno maneat <app><lem>perenne</lem><rdg wit="#O" ana = "#lexical">perire</rdg></app> saeclo.</l>
