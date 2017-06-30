@@ -57,10 +57,12 @@
                   <witness xml:id="V"> <abbr type = "siglum"> V </abbr></witness>
                   <witness xml:id="O"> <abbr type="siglum"> O </abbr></witness>
                   <witness xml:id="G"> <abbr type="siglum"> G </abbr></witness>
+                  <witness xml:id="G1"> <abbr type = "siglum"> R <hi rend= "superscript">1</hi></abbr></witness>
                   <witness xml:id="R"> <abbr type="siglum"> R </abbr> </witness>
                   <witness xml:id="R2"> <abbr type="siglum"> R <hi rend= "superscript">2</hi></abbr></witness>
-                  <witness xml:id="ε"> <abbr> type="siglum" ε </abbr></witness>
-                  <witness xml:id="η"> <abbr> type ="siglum" η </abbr></witness>
+                  <witness xml:id="ε"> <abbr type="siglum"> ε </abbr></witness>
+                  <witness xml:id="η"> <abbr type="siglum"> η </abbr></witness>
+                  <witness xml:id="θ"> <abbr type="siglum"> θ</abbr></witness>
         </listWit>
         </div>
       </div>
@@ -83,8 +85,9 @@
                         tribue explicare cartis</l>
           <l n = "7">doctis, Iuppiter, et laboriosis.</l>
           <l n = "8">quare <app><lem wit = "#η">habe tibi</lem> <rdg wit="#V">tibi habe</rdg></app> 
-                        quidquid hoc libelli.</l>
-          <l n = "9">qualecumque quod, <supplied reason="lost">o</supplied> patrona virgo,</l>
+                        quidquid hoc 
+                        <app><lem>libelli</lem> <rdg wit= "#G1 #R2">al. mei</rdg></app>.</l>
+          <l n = "9">qualecumque quod, <app><lem source= "#θ"><supplied reason="lost">o</supplied></lem></app> patrona virgo,</l>
           <l n = "10">plus uno maneat perenne saeclo.</l>
         
               <ab>1 2 arida Servius, Pastrengicus, V?, arido OGR  punice R corr. R<hi rend= "superscript">2</hi>  5 tum ε: tamen V
