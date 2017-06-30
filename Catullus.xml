@@ -96,7 +96,10 @@
           <l n = "5">iam <app><lem wit="#ε" ana = "#lexical">tum</lem> <rdg wit= "#V"> tamen </rdg></app>, 
                         cum ausus <app><lem wit="#ε">es</lem> <rdg wit= "#V" ana = "#morphological">est</rdg></app> 
                         unus Italorum</l>
-          <l n = "6">omne <app>     <lem>aevum</lem>     <rdg wit="#O #past" ana = "#orthographical">evum(euū)</rdg>  <rdg wit="#G #R" ana = "#lexical">eum</rdg>              </app> 
+          <l n = "6">omne <app>     <lem>aevum</lem>     <rdg wit="#O #past" ana = "#orthographical">evum(euū)</rdg>  
+               <rdg wit="#G #R" xml:id= "rdgeum" ana = "#lexical">eum</rdg>              
+               <witDetail wit="#R" target = "#rdgeum">corr. R<hi rend="superscript">2</hi></witDetail> 
+          </app> 
                         tribue explicare cartis</l>
           <l n = "7">doctis, Iuppiter, et laboriosis.</l>
           <l n = "8">quare <app><lem wit = "#η">habe tibi</lem> <rdg wit="#V" ana = "#ordinal">tibi habe</rdg></app> 
