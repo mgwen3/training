@@ -57,7 +57,7 @@
                   <witness xml:id="V"> <abbr type = "siglum"> V </abbr></witness>
                   <witness xml:id="O"> <abbr type="siglum"> O </abbr></witness>
                   <witness xml:id="G"> <abbr type="siglum"> G </abbr></witness>
-                  <witness xml:id="G1"> <abbr type = "siglum"> R <hi rend= "superscript">1</hi></abbr></witness>
+                  <witness xml:id="G1"> <abbr type = "siglum"> G <hi rend= "superscript">1</hi></abbr></witness>
                   <witness xml:id="R"> <abbr type="siglum"> R </abbr> </witness>
                   <witness xml:id="R2"> <abbr type="siglum"> R <hi rend= "superscript">2</hi></abbr></witness>
                   <witness xml:id="ε"> <abbr type="siglum"> ε </abbr></witness>
@@ -89,7 +89,7 @@
                         quidquid hoc 
                         <app><lem>libelli</lem> <rdg wit= "#G1 #R2">al. mei</rdg></app>.</l>
           <l n = "9">qualecumque quod, 
-                      <app> <lem source= "#θ" xml:id = "l9lem1"> <witDetail target = "#l9lem1"> add. </witDetail><supplied reason="lost">o</supplied> </lem>  <rdg wit= "#Statius"> est (ē) </rdg> </app> 
+                      <app> <lem source= "#θ" xml:id = "l9lem1"> <witDetail wit = "#θ" target = "#l9lem1"> add. </witDetail><supplied reason="lost">o</supplied> </lem>  <rdg wit= "#Statius"> est (ē) </rdg> </app> 
                       patrona virgo,</l>
           <l n = "10">plus uno maneat <app><lem>perenne</lem><rdg wit="#O">perire</rdg></app> saeclo.</l>
         
