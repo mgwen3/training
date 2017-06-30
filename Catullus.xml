@@ -63,6 +63,7 @@
                   <witness xml:id="ε"> <abbr type="siglum"> ε </abbr></witness>
                   <witness xml:id="η"> <abbr type="siglum"> η </abbr></witness>
                   <witness xml:id="θ"> <abbr type="siglum"> θ</abbr></witness>
+                  <witness xml:id="Statius"></witness>
         </listWit>
         </div>
       </div>
@@ -87,8 +88,19 @@
           <l n = "8">quare <app><lem wit = "#η">habe tibi</lem> <rdg wit="#V">tibi habe</rdg></app> 
                         quidquid hoc 
                         <app><lem>libelli</lem> <rdg wit= "#G1 #R2">al. mei</rdg></app>.</l>
-          <l n = "9">qualecumque quod, <app><lem source= "#θ"><supplied reason="lost">o</supplied></lem></app> patrona virgo,</l>
-          <l n = "10">plus uno maneat perenne saeclo.</l>
+          <l n = "9">qualecumque quod, 
+                      <app>
+                         <lem source= "#θ">
+                           <supplied reason="lost">
+                             o
+                           </supplied>
+                         </lem> 
+                           <rdg wit= "#Statius">
+                             est(ē)
+                           </rdg>
+                      </app> 
+                      patrona virgo,</l>
+          <l n = "10">plus uno maneat <app><lem>perenne</lem><rdg wit="#O">perire</rdg></app> saeclo.</l>
         
               <ab>1 2 arida Servius, Pastrengicus, V?, arido OGR  punice R corr. R<hi rend= "superscript">2</hi>  5 tum ε: tamen V
 es ε: est V  6 evum (euū) O, Pastrengicus: eum GR, corr R<hi rend= "superscript">2</hi>  8 habe tibi η : tibi habe V
